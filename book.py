@@ -1,19 +1,20 @@
+import sys
+import urllib.request as req
+import urllib.parse as parse
 
+if len(sys.argv) <= 0:
+    print("USAGE: hyakunin.py (keyword)")
+    sys.exit()
 
-import urllib.request
-import urllib.parse
-API = "http://api.aoikujira.com/zip/xml/get.php"
-
-values = {
-    'fmt': 'xml',
-    'zn': '1500042'
+API = "http://api.aoikujira.com/hyakunin/get.php"
+query = {
+    "fmt": "ini",
+    "key": "日"
 }
-params = urllib.parse.urlencode(values)
-
+params = parse.urlencode(query)
 url = API + "?" + params
 print("url=", url)
 
-data =  urllib.request.urlopen(url).read()
-text = data.decode("utf-8")
-
-print(text)
+with req.urlopen(url) as r:
+    b = r.read
+    print(b.decode("utf-8"))
