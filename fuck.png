@@ -1,0 +1,747 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="ja">
+	<head>
+		<title>【CRAFT】| 通販、セレクトショップ</title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+		<meta name="description" content="日本の「伝統技術 × 現代デザイン」をテーマに、動画で商品やライフスタイルを紹介し、買い物までできるサービス「CRAFT&quot;クラフト&quot;」">
+		
+		<link rel="canonical" href="https://www.craft-store.jp/">
+		<meta property="og:title" content="【CRAFT】| 通販、セレクトショップ" />
+<meta property="og:description" content="日本の「伝統技術 × 現代デザイン」をテーマに、動画で商品やライフスタイルを紹介し、買い物までできるサービス「CRAFT&quot;クラフト&quot;」">
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.craft-store.jp/" />
+<meta property="og:image" content="https://www.craft-store.jp/images/craft_logo_1200_630.png">
+<meta property="og:site_name" content="CRAFT" />
+<meta property="fb:app_id" content="197862643963612" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="CRAFT" />
+<meta name="twitter:title" content="【CRAFT】| 通販、セレクトショップ" />
+<meta name="twitter:description" content="日本の「伝統技術 × 現代デザイン」をテーマに、動画で商品やライフスタイルを紹介し、買い物までできるサービス「CRAFT&quot;クラフト&quot;」" />
+<meta name="twitter:image" content="https://www.craft-store.jp/images/craft_logo_1200_630.png" />
+<meta name="twitter:url" content="https://www.craft-store.jp/" />
+
+		<script src="/assets/application-3dc7c1c9434d85ef2db1f8223f33ff8d271d716cea64b423c9cb66950fca711c.js"></script>
+		<link href="https://fonts.googleapis.com/css?family=Lato:300,400,400italic,600,700|Raleway:300,400,500,600,700|Crete+Round:400italic" rel="stylesheet" type="text/css"/>
+		<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-T8Gy5hrqNKT+hzMclPo118YTQO6cYprQmhrYwIiQ/3axmI1hQomh7Ud2hPOy8SP1" crossorigin="anonymous">
+		<link href="https://vjs.zencdn.net/5.10.8/video-js.css" rel="stylesheet" type="text/css">
+		<link rel="stylesheet" media="all" href="/assets/application-8314dbfb4cf084d76caa9263d298fcf097e7478802122c09f0a32c769eff94b9.css" />
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+		<!--[if lt IE 9]> <script type="text/javascript" src="/js/css3-mediaqueries.js"></script> <![endif]-->
+
+		<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-5KDPC2');</script>
+		<!-- End Google Tag Manager -->
+
+		<!-- Google merchant center -->
+		<meta name="google-site-verification" content="puig-Cn2mt6BggfRzkmblHShGvSb6E_fSi8bOUphsds" />
+		<meta name="format-detection" content="telephone=no">
+	</head>
+
+	<body class="stretched">
+		<div id="fb-root"></div>
+
+		<!-- Google Tag Manager -->
+		<!-- Google Tag Manager (noscript) -->
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5KDPC2"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<!-- End Google Tag Manager (noscript) -->
+		<!-- End Google Tag Manager -->
+		<!-- Facebook SDK -->
+		<script>
+		  window.fbAsyncInit = function() {
+		    FB.init({
+		      appId      : '197862643963612',
+		      xfbml      : true,
+		      version    : 'v2.7'
+		    });
+		  };
+
+			(function(d, s, id) {
+		    var js, fjs = d.getElementsByTagName(s)[0];
+		    if (d.getElementById(id)) return;
+		    js = d.createElement(s); js.id = id;
+		    js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6";
+		    fjs.parentNode.insertBefore(js, fjs);
+		  }(document, 'script', 'facebook-jssdk'));
+		</script>
+		<!-- End Facebook SDK -->
+
+		<!-- Document Wrapper -->
+		<div id="wrapper" class="clearfix device-xxs device-touch">
+
+			<!-- Header ============================================= -->
+<header id="header" class="full-header">
+
+    <div id="header-wrap">
+
+        <div class="container clearfix">
+            <div id="primary-search-trigger">
+                <img src="https://s3-ap-northeast-1.amazonaws.com/craft-neworld/site/icon-search.png" alt="検索ボタン">
+            </div>
+            <div id="logo">
+                <a href="/" class="standard-logo" data-dark-logo="/images/logo-dark.png"><img src="/images/logo-dark.png" alt="CRAFT"></a>
+            <!-- Primary Navigation -->
+<nav id="primary-menu">
+    <ul class="nav nav-pills">
+        <li class="lt960-hide">
+            <a href="/signup">会員登録</a>
+        <li>
+        <li class="lt960-hide">
+            <a href="/login">
+                ログイン
+</a>        <li>
+        <li id="header-cart-btn">
+            <a href="/cart">
+              
+              <img class="cart-img" src="https://s3-ap-northeast-1.amazonaws.com/craft-neworld/site/nav-cart.png" alt="カートボタン">
+            </a>
+        <li>
+    </ul>
+
+
+
+<!-- disable
+    <div id="top-search">
+        <a href="#" id="top-search-trigger">
+            <i class="icon-search3"><span class="hidden-xs hidden-sm">&nbsp;Search</span></i>
+            <i class="icon-line-cross"></i>
+        </a>
+            <input type="text" name="keywords" class="form-control" value="" placeholder="キーワードで探す">
+    </div>
+-->
+</nav>
+<!-- #primary-menu end -->
+
+            </div>
+        </div>
+
+    </div>
+
+</header>
+<!-- #header end -->
+
+			<section id="content" class="container">
+  <div class="row">
+
+        <!-- Content
+        ============================================= -->
+        <img src="https://s3-ap-northeast-1.amazonaws.com/craft-neworld/site/video/sptoppage.png" class="col-xs-12 no-padding">
+        <div class="col-xs-12 no-padding" id="top-slick">
+            <div id="single-slick">
+                <div class="feature-item">
+                    <a href="/features/lunchbox-gift">
+                        <span class="feature-caption">特集</span>
+                        <img class="img-responsive center-block" src="https://craft-neworld-production.s3.amazonaws.com/uploads/feature/image/28/smartphone_suginoki-thumbnail.jpg" alt="Smartphone suginoki thumbnail" />
+                        <span class="feature-title">意外と使えるお弁当箱はギフトに最適！</span>
+</a>                </div>
+                <div class="feature-item">
+                    <a href="/features/how-to-clean-lacqueware">
+                        <span class="feature-caption">特集</span>
+                        <img class="img-responsive center-block" src="https://craft-neworld-production.s3.amazonaws.com/uploads/feature/image/27/smartphone_shikki01.jpg" alt="Smartphone shikki01" />
+                        <span class="feature-title">華やぎの漆器、末永く愛用するためのお手入れのコツ</span>
+</a>                </div>
+                <div class="feature-item">
+                    <a href="/features/wedding-present">
+                        <span class="feature-caption">特集</span>
+                        <img class="img-responsive center-block" src="https://craft-neworld-production.s3.amazonaws.com/uploads/feature/image/26/smartphone_wedding-couple.jpg" alt="Smartphone wedding couple" />
+                        <span class="feature-title">楽しく迷う結婚祝い。自宅にも欲しいアイテム4選</span>
+</a>                </div>
+                <div class="feature-item">
+                    <a href="/features/fathers-day">
+                        <span class="feature-caption">特集</span>
+                        <img class="img-responsive center-block" src="https://craft-neworld-production.s3.amazonaws.com/uploads/feature/image/25/smartphone_fathers-day-top2.jpg" alt="Smartphone fathers day top2" />
+                        <span class="feature-title">父の日、花とともに贈りたい品々</span>
+</a>                </div>
+                <div class="feature-item">
+                    <a href="/features/vegetable-leather">
+                        <span class="feature-caption">特集</span>
+                        <img class="img-responsive center-block" src="https://craft-neworld-production.s3.amazonaws.com/uploads/feature/image/24/smartphone_vegetable-tanning-5.jpg" alt="Smartphone vegetable tanning 5" />
+                        <span class="feature-title">革選びで知っておきたい「植物タンニンなめし」のこと</span>
+</a>                </div>
+                <div class="feature-item">
+                    <a href="/features/herashibori">
+                        <span class="feature-caption">特集</span>
+                        <img class="img-responsive center-block" src="https://craft-neworld-production.s3.amazonaws.com/uploads/feature/image/23/smartphone_herashibori_top.jpg" alt="Smartphone herashibori top" />
+                        <span class="feature-title">1mm単位の職人芸！「へら絞り」の世界</span>
+</a>                </div>
+                <div class="feature-item">
+                    <a href="/features/mothers-day-nousaku">
+                        <span class="feature-caption">特集</span>
+                        <img class="img-responsive center-block" src="https://craft-neworld-production.s3.amazonaws.com/uploads/feature/image/21/smartphone_mothers-day-nousaku.jpg" alt="Smartphone mothers day nousaku" />
+                        <span class="feature-title">能作の錫製品で、記憶に残る母の日を</span>
+</a>                </div>
+                <div class="feature-item">
+                    <a href="/features/suginoki-brand">
+                        <span class="feature-caption">特集</span>
+                        <img class="img-responsive center-block" src="https://craft-neworld-production.s3.amazonaws.com/uploads/feature/image/20/smartphone_thumb_suginoki_re-03.jpg" alt="Smartphone thumb suginoki re 03" />
+                        <span class="feature-title">杉の木クラフトが提案する、曲げわっぱのお弁当箱</span>
+</a>                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="clearfix row" id="column-wrapper">
+        <div class="column-main clearfix">
+            <div class="column-main-child clearfix">
+                <section class="col-xs-12 product-thumbnail" id="popular-item">
+                    <img src="https://s3-ap-northeast-1.amazonaws.com/craft-neworld/site/icon-crown.png" class="img-responsive center-block mt960-hide home-icon" alt="人気商品ランキング">
+                    <h1 class="text-pc-left-sp-center">人気商品</h1>
+                    <div class="row">
+                        <div class="col-xs-6 col-sm-4 col-md-3">
+                            <div class="product-image">
+                                <span class="popular-item-crown popular-rank-1">
+                                    1
+                                </span>
+                                <a itemprop="url" href="https://www.craft-store.jp/products/suginokicraft-large-lunchbox">
+                                  <img itemprop="image" alt="うるしの弁当箱（大）" src="https://craft-neworld-production.s3.amazonaws.com/uploads/spree/product/image/77/thumbnail_suginoki_l_thum.jpg" />
+</a>                            </div>
+                            <div class="product-desc center">
+                                <div class="product-title">
+                                    <h3>
+                                        <a href="https://www.craft-store.jp/products/suginokicraft-large-lunchbox">うるしの弁当箱（大）</a>
+                                    </h3>
+                                </div>
+                                <div class="product-price">
+                                    <ins>4,860円</ins>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-xs-6 col-sm-4 col-md-3">
+                            <div class="product-image">
+                                <span class="popular-item-crown popular-rank-2">
+                                    2
+                                </span>
+                                <a itemprop="url" href="https://www.craft-store.jp/products/copper-spoon-set-gold">
+                                  <img itemprop="image" alt="アイスクリームスプーン 2本セット（ゴールド）" src="https://craft-neworld-production.s3.amazonaws.com/uploads/spree/product/image/88/thumbnail_gold-box.jpg" />
+</a>                            </div>
+                            <div class="product-desc center">
+                                <div class="product-title">
+                                    <h3>
+                                        <a href="https://www.craft-store.jp/products/copper-spoon-set-gold">アイスクリームスプーン 2本セット（ゴールド）</a>
+                                    </h3>
+                                </div>
+                                <div class="product-price">
+                                    <ins>4,320円</ins>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-xs-6 col-sm-4 col-md-3">
+                            <div class="product-image">
+                                <span class="popular-item-crown popular-rank-3">
+                                    3
+                                </span>
+                                <a itemprop="url" href="https://www.craft-store.jp/products/nousaku_chopstickrest_knot_b">
+                                  <img itemprop="image" alt="箸置き - 結び（5個セット）" src="https://craft-neworld-production.s3.amazonaws.com/uploads/spree/product/image/80/thumbnail_musubi_170407_r2-compressor.jpg" />
+</a>                            </div>
+                            <div class="product-desc center">
+                                <div class="product-title">
+                                    <h3>
+                                        <a href="https://www.craft-store.jp/products/nousaku_chopstickrest_knot_b">箸置き - 結び（5個セット）</a>
+                                    </h3>
+                                </div>
+                                <div class="product-price">
+                                    <ins>5,400円</ins>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-xs-6 col-sm-4 col-md-3">
+                            <div class="product-image">
+                                <span class="popular-item-crown popular-rank-4">
+                                    4
+                                </span>
+                                <a itemprop="url" href="https://www.craft-store.jp/products/suginokicraft_lunchbox">
+                                  <img itemprop="image" alt="うるしの弁当箱" src="https://craft-neworld-production.s3.amazonaws.com/uploads/spree/product/image/6/thumbnail_suginoki_m_5.jpg" />
+</a>                            </div>
+                            <div class="product-desc center">
+                                <div class="product-title">
+                                    <h3>
+                                        <a href="https://www.craft-store.jp/products/suginokicraft_lunchbox">うるしの弁当箱</a>
+                                    </h3>
+                                </div>
+                                <div class="product-price">
+                                    <ins>4,104円</ins>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-xs-6 col-sm-4 col-md-3">
+                            <div class="product-image">
+                                <span class="popular-item-crown popular-rank-5">
+                                    5
+                                </span>
+                                <a itemprop="url" href="https://www.craft-store.jp/products/syuzangama_itazara">
+                                  <img itemprop="image" alt="秀山ブルー 板皿" src="https://craft-neworld-production.s3.amazonaws.com/uploads/spree/product/image/44/thumbnail_syuzan_top.jpg" />
+</a>                            </div>
+                            <div class="product-desc center">
+                                <div class="product-title">
+                                    <h3>
+                                        <a href="https://www.craft-store.jp/products/syuzangama_itazara">秀山ブルー 板皿</a>
+                                    </h3>
+                                </div>
+                                <div class="product-price">
+                                    <ins>5,775円</ins>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-xs-6 col-sm-4 col-md-3">
+                            <div class="product-image">
+                                <span class="popular-item-crown popular-rank-6">
+                                    6
+                                </span>
+                                <a itemprop="url" href="https://www.craft-store.jp/products/najimi_tumbler">
+                                  <img itemprop="image" alt="NAJIMIタンブラー" src="https://craft-neworld-production.s3.amazonaws.com/uploads/spree/product/image/58/thumbnail_najimi_top_re.jpg" />
+</a>                            </div>
+                            <div class="product-desc center">
+                                <div class="product-title">
+                                    <h3>
+                                        <a href="https://www.craft-store.jp/products/najimi_tumbler">NAJIMIタンブラー</a>
+                                    </h3>
+                                </div>
+                                <div class="product-price">
+                                    <ins>6,480円</ins>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-xs-6 col-sm-4 col-md-3">
+                            <div class="product-image">
+                                <span class="popular-item-crown popular-rank-7">
+                                    7
+                                </span>
+                                <a itemprop="url" href="https://www.craft-store.jp/products/3way_mini_wallet">
+                                  <img itemprop="image" alt="3WAY MINI WALLET" src="https://craft-neworld-production.s3.amazonaws.com/uploads/spree/product/image/23/thumbnail_3way_ft_l.jpg" />
+</a>                            </div>
+                            <div class="product-desc center">
+                                <div class="product-title">
+                                    <h3>
+                                        <a href="https://www.craft-store.jp/products/3way_mini_wallet">3WAY MINI WALLET</a>
+                                    </h3>
+                                </div>
+                                <div class="product-price">
+                                    <ins>5,000円</ins>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-xs-6 col-sm-4 col-md-3">
+                            <div class="product-image">
+                                <span class="popular-item-crown popular-rank-8">
+                                    8
+                                </span>
+                                <a itemprop="url" href="https://www.craft-store.jp/products/urushiyahayashi_sakura_meotobashi">
+                                  <img itemprop="image" alt="さくら 夫婦箸" src="https://craft-neworld-production.s3.amazonaws.com/uploads/spree/product/image/42/thumbnail_hayashi_top.jpg" />
+</a>                            </div>
+                            <div class="product-desc center">
+                                <div class="product-title">
+                                    <h3>
+                                        <a href="https://www.craft-store.jp/products/urushiyahayashi_sakura_meotobashi">さくら 夫婦箸</a>
+                                    </h3>
+                                </div>
+                                <div class="product-price">
+                                    <ins>4,000円</ins>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <!-- #shop end -->
+                    <div class="more row">
+                        <div class="col-xs-12">
+                            <a class="more-btn" href="/ranks">もっと見る</a>
+                        </div>
+                    </div>
+                </section>
+                <section class="col-xs-12 product-thumbnail">
+                    <img src="https://s3-ap-northeast-1.amazonaws.com/craft-neworld/site/icon-medal.png" class="img-responsive center-block mt960-hide home-icon" alt="CRAFT編集部のおすすめ商品">
+                    <h1 class="text-pc-left-sp-center">CRAFT編集部おすすめ商品</h1>
+                    <div class="row">
+                        <div class="col-xs-6 col-sm-4 col-md-3">
+                            <div class="product-image">
+                              <a itemprop="url" href="https://www.craft-store.jp/products/zen">
+                                <img itemprop="image" alt="ZEN - ゼン" src="https://craft-neworld-production.s3.amazonaws.com/uploads/spree/product/image/22/thumbnail_teori.jpg" />
+</a>                            </div>
+                            <div class="product-desc center">
+                                <div class="product-title">
+                                    <h3>
+                                        <a href="https://www.craft-store.jp/products/zen">ZEN - ゼン</a>
+                                    </h3>
+                                </div>
+                                <div class="product-price">
+                                    <ins>5,400円</ins>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xs-6 col-sm-4 col-md-3">
+                            <div class="product-image">
+                              <a itemprop="url" href="https://www.craft-store.jp/products/moku_s">
+                                <img itemprop="image" alt="MOKUシリーズ ボウル（小）" src="https://craft-neworld-production.s3.amazonaws.com/uploads/spree/product/image/37/thumbnail_moku_s_top.jpg" />
+</a>                            </div>
+                            <div class="product-desc center">
+                                <div class="product-title">
+                                    <h3>
+                                        <a href="https://www.craft-store.jp/products/moku_s">MOKUシリーズ ボウル（小）</a>
+                                    </h3>
+                                </div>
+                                <div class="product-price">
+                                    <ins>4,320円</ins>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xs-6 col-sm-4 col-md-3">
+                            <div class="product-image">
+                              <a itemprop="url" href="https://www.craft-store.jp/products/urushiyahayashi_lunchbox_l">
+                                <img itemprop="image" alt="紀州ひのきの弁当箱（大）" src="https://craft-neworld-production.s3.amazonaws.com/uploads/spree/product/image/81/thumbnail_hayashi_l_bokashi_thum.jpg" />
+</a>                            </div>
+                            <div class="product-desc center">
+                                <div class="product-title">
+                                    <h3>
+                                        <a href="https://www.craft-store.jp/products/urushiyahayashi_lunchbox_l">紀州ひのきの弁当箱（大）</a>
+                                    </h3>
+                                </div>
+                                <div class="product-price">
+                                    <ins>7,560円</ins>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xs-6 col-sm-4 col-md-3">
+                            <div class="product-image">
+                              <a itemprop="url" href="https://www.craft-store.jp/products/maruhiro-blockmug-l">
+                                <img itemprop="image" alt="ブロックマグ ビッグ" src="https://craft-neworld-production.s3.amazonaws.com/uploads/spree/product/image/76/thumbnail_blockmug.jpg" />
+</a>                            </div>
+                            <div class="product-desc center">
+                                <div class="product-title">
+                                    <h3>
+                                        <a href="https://www.craft-store.jp/products/maruhiro-blockmug-l">ブロックマグ ビッグ</a>
+                                    </h3>
+                                </div>
+                                <div class="product-price">
+                                    <ins>1,944円</ins>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xs-6 col-sm-4 col-md-3">
+                            <div class="product-image">
+                              <a itemprop="url" href="https://www.craft-store.jp/products/nosaku_beercup">
+                                <img itemprop="image" alt="ビアカップ" src="https://craft-neworld-production.s3.amazonaws.com/uploads/spree/product/image/61/thumbnail_beer_170408_3_r-compressor.jpg" />
+</a>                            </div>
+                            <div class="product-desc center">
+                                <div class="product-title">
+                                    <h3>
+                                        <a href="https://www.craft-store.jp/products/nosaku_beercup">ビアカップ</a>
+                                    </h3>
+                                </div>
+                                <div class="product-price">
+                                    <ins>6,048円</ins>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xs-6 col-sm-4 col-md-3">
+                            <div class="product-image">
+                              <a itemprop="url" href="https://www.craft-store.jp/products/syuzangama_itazara">
+                                <img itemprop="image" alt="秀山ブルー 板皿" src="https://craft-neworld-production.s3.amazonaws.com/uploads/spree/product/image/44/thumbnail_syuzan_top.jpg" />
+</a>                            </div>
+                            <div class="product-desc center">
+                                <div class="product-title">
+                                    <h3>
+                                        <a href="https://www.craft-store.jp/products/syuzangama_itazara">秀山ブルー 板皿</a>
+                                    </h3>
+                                </div>
+                                <div class="product-price">
+                                    <ins>5,775円</ins>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xs-6 col-sm-4 col-md-3">
+                            <div class="product-image">
+                              <a itemprop="url" href="https://www.craft-store.jp/products/fabrik_tri">
+                                <img itemprop="image" alt="TRI-FOLD WALLET" src="https://craft-neworld-production.s3.amazonaws.com/uploads/spree/product/image/73/thumbnail_tfw_ft_l.jpg" />
+</a>                            </div>
+                            <div class="product-desc center">
+                                <div class="product-title">
+                                    <h3>
+                                        <a href="https://www.craft-store.jp/products/fabrik_tri">TRI-FOLD WALLET</a>
+                                    </h3>
+                                </div>
+                                <div class="product-price">
+                                    <ins>14,500円</ins>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xs-6 col-sm-4 col-md-3">
+                            <div class="product-image">
+                              <a itemprop="url" href="https://www.craft-store.jp/products/copper-spoon-pinkgold">
+                                <img itemprop="image" alt="アイスクリームスプーン 1本（ピンクゴールド）" src="https://craft-neworld-production.s3.amazonaws.com/uploads/spree/product/image/90/thumbnail_pink-top.jpg" />
+</a>                            </div>
+                            <div class="product-desc center">
+                                <div class="product-title">
+                                    <h3>
+                                        <a href="https://www.craft-store.jp/products/copper-spoon-pinkgold">アイスクリームスプーン 1本（ピンクゴールド）</a>
+                                    </h3>
+                                </div>
+                                <div class="product-price">
+                                    <ins>3,024円</ins>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <section id="category" class="col-xs-12">
+                    <div class="">
+                        <h2 class="text-pc-left-sp-center">商品カテゴリー</h2>
+                    </div>
+                    <div class="category-box clearfix">
+                        <span class="col-xs-6 col-sm-4 col-md-3 category-item">
+                            <a href="/t/tableware">
+                              <i class="fa fa-angle-right" aria-hidden="true">&nbsp;</i>テーブルウェア
+</a>                        </span>
+                        <span class="col-xs-6 col-sm-4 col-md-3 category-item">
+                            <a href="/t/kitchenware">
+                              <i class="fa fa-angle-right" aria-hidden="true">&nbsp;</i>キッチン用品
+</a>                        </span>
+                        <span class="col-xs-6 col-sm-4 col-md-3 category-item">
+                            <a href="/t/goods">
+                              <i class="fa fa-angle-right" aria-hidden="true">&nbsp;</i>雑貨/小物
+</a>                        </span>
+                    </div>
+                </section>
+            </div>
+            <section class="container clearfix" id="footer-shopping-guide">
+    <div class="panel-group" id="footer-accordion" role="tablist" aria-multiselectable="false">
+        <div class="panel panel-default">
+            <div class="panel-heading" role="tab" id="headingOne">
+                <a class="footer-accordion-trigger" role="button" data-toggle="collapse" href="#shipping-guide" aria-expanded="false" aria-controls="shipping-guide">
+                    お届けについて
+                </a>
+            </div>
+            <div id="shipping-guide" class="panel-collapse collapse" role="tabpanel" aria-labelledby="shipping-guide" aria-expanded="false">
+                <div class="panel-body">
+                    <dl class="dl-horizontal">
+                        <dt>配送</dt>
+                        <dd>
+                            <p>原則、製造元より直接お届けいたします。</p>
+                            <p>最短での発送を心がけておりますが、手仕事のためお届けまでに2週間前後お時間をいただく場合がございます。</p>
+                            <p>それ以上の期間を要する商品については、商品ページにて目安を記載しております。</p>
+                            <p>生産が追いつかない等の理由で記載の時間を上回ることが予想される場合、CRAFT よりご連絡させていただきます。</p>
+                        </dd>
+                    </dl>
+                    <dl class="dl-horizontal">
+                        <dt>包装</dt>
+                        <dd>
+                            <p>化粧箱、破損防止の包装をして発送いたします。</p>
+                            <p>メッセージカード、熨斗には対応しておりません。あらかじめご了承ください。</p>
+                        </dd>
+                    </dl>
+                </div><!--panel-body-->
+            </div><!--shipping-guide-->
+        </div><!--panel-default-->
+        <div class="panel panel-default">
+            <div class="panel-heading" role="tab" id="headingOne">
+                <a class="footer-accordion-trigger" role="button" data-toggle="collapse" href="#payment-guide" aria-expanded="false" aria-controls="payment-guide">
+                    お支払いの方法
+                </a>
+            </div>
+            <div id="payment-guide" class="panel-collapse collapse" role="tabpanel" aria-labelledby="payment-guide" aria-expanded="false">
+                <div class="panel-body">
+                    <p>「クレジットカード決済」、「コンビニ支払い」、「銀行振込」の3種類からお選びいただけます。</p>
+
+                    <dl class="dl-horizontal">
+                        <dt>クレジットカード決済</dt>
+                        <dd>
+                            <img class="img-responsive" src="https://s3-ap-northeast-1.amazonaws.com/craft-neworld/site/card/credit_card_list.gif" alt="当店で使用可能なクレジットカードのリスト、VISA,MASTER,AmericanExpress,Discover,JCB">
+                        </dd>
+                    </dl>
+                    <dl class="dl-horizontal">
+                        <dt>コンビニ支払い</dt>
+                        <dd>
+                            <img class="img-responsive" src="https://s3-ap-northeast-1.amazonaws.com/craft-neworld/site/convenience/convenience_store_list.png" alt="当店で使用可能なコンビニ決済、ローソン、ファミリーマート、サンクス、サークルK、ミニストップ、デイリー、セブンイレブン">
+                        </dd>
+                    </dl>
+
+                    <dl class="dl-horizontal">
+                        <dt>銀行振込</dt>
+                        <dd>
+                            <p>
+                                CRAFT より、「お振込詳細メール」をお送りします。
+                                内容をご確認いただき、お振込のお手続きをお願いいたします。
+                            </p>
+                            <p>
+                                お支払いの方法の詳細については<a href="/guide">ショッピングガイド</a>をご参照ください。
+                            </p>
+                        </dd>
+                    </dl>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<script type="text/javascript">
+$(function(){
+    $(".footer-accordion-trigger").on("click", function(){
+        var w = $(window).width();
+        var x = 959;
+        if (w >= x) {
+            console.log("footer-shopping-guide-function");
+            return false;
+        }else{
+            var status = $(this).attr("aria-expanded");
+            if( status == "true"){
+                $(this).css("background-image", 'url("https://s3-ap-northeast-1.amazonaws.com/craft-neworld/site/list-menu-accordion.png")');
+            }else{
+                $(this).css("background-image", 'url("https://s3-ap-northeast-1.amazonaws.com/craft-neworld/site/list-menu-opened.png")');
+            }
+        }
+    });
+})
+</script>
+
+
+        </div>
+        <div class="column-side clearfix">
+            <div class="">
+                <nav id="slide_menu" class="clearfix">
+    <div id="primary-search-close-trigger">
+         <img src="https://s3-ap-northeast-1.amazonaws.com/craft-neworld/site/icon-close.png">
+    </div>
+    <div class="col-xs-12">
+      <form class="navbar-form" action="/products" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+      <h3 class="sidebar-title-first">キーワード検索</h3>
+      <div class="input-group">
+          <input type="text" name="keywords" class="form-control" value="" placeholder="キーワードで探す">
+          <span class="input-group-btn">
+              <button id="search-submit" class="btn btn-default" type="submit"><i class="icon-search3"></i></button>
+          </span>
+      </div><!-- /input-group -->
+    </div>
+    <div class="col-xs-12">
+        <select class="form-control" name="taxon">
+            <option value="">カテゴリーで探す</option>
+            <option value="2">テーブルウェア</option>
+            <option value="3">キッチン用品</option>
+            <option value="4">雑貨/小物</option>
+        </select>
+    </div>
+    <div class="col-xs-12">
+        <select class="form-control" name="price">
+            <option value="">価格で探す</option>
+            <option value="0-4999">0円 - 4999円</option>
+            <option value="5000-9999">5000円 - 9999円</option>
+            <option value="10000-14999">10000円 - 14999円</option>
+            <option value="15000-19999">15000円 - 19999円</option>
+            <option value="20000-24999">20000円 - 24999円</option>
+            <option value="25000-999999">25000円 -</option>
+        </select>
+    </div>
+    <div class="col-xs-12">
+        <button class="btn" id="sidebar-submit" type="submit">この条件で検索</button>
+    </div>
+
+</form>    <div class="col-xs-12">
+        <h3 class="sidebar-title">人気タグ</h3>
+        <a class="tag-item" href="/tags/漆器">漆器</a>
+        <a class="tag-item" href="/tags/ヘラ絞り">ヘラ絞り</a>
+        <a class="tag-item" href="/tags/硝子">硝子</a>
+        <a class="tag-item" href="/tags/錫">錫</a>
+        <a class="tag-item" href="/tags/鍋">鍋</a>
+        <a class="tag-item" href="/tags/グラス">グラス</a>
+        <a class="tag-item" href="/tags/アルミ">アルミ</a>
+        <a class="tag-item" href="/tags/革">革</a>
+        <a class="tag-item" href="/tags/陶磁器">陶磁器</a>
+    </div>
+
+
+
+</nav>
+
+            </div>
+        </div>
+    </div>
+    <!-- #content end -->
+</section>
+
+<script type="text/javascript">
+$(function(){
+    $("#single-slick").slick({
+        arrows: true,
+        draggable: true,
+        accessibility: true,
+        dots: false,
+        infinite: true,
+        adaptiveHeight: true,
+        centerMode: true,
+        respondTo: 'window',
+        swipe: true,
+        slidesToShow: 3,
+        slidesToScroll: 1,
+        responsive: [{
+            breakpoint: 960,
+            settings: {
+                slidesToShow: 1,
+                slidesToScroll: 1
+            }
+        }]
+    });
+})
+</script>
+
+			<!-- Footer ============================================= -->
+<div class="col-xs-12">
+    <section class="center-block text-center" id="facebook-widget">
+        <div class="fb-page" data-href="https://www.facebook.com/craft.neworld" data-width="500" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/craft.neworld" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/craft.neworld">CRAFT.jp</a></blockquote></div>
+    </section>
+</div>
+
+<div id="footer-logo">
+    <img src="https://s3-ap-northeast-1.amazonaws.com/craft-neworld/site/logo/craft_logo_footer.png" class="center-block" alt="CRAFT">
+</div>
+<footer id="footer" class="">
+    <nav id="footer-nav">
+        <ul class="list-group">
+            <li class=""><a href="/about"><i class="fa fa-angle-right" aria-hidden="true">&nbsp;CRAFT とは</i></a></li>
+            <li class=""><a href="/guide"><i class="fa fa-angle-right" aria-hidden="true">&nbsp;ショッピングガイド</i></a></li>
+            <li class=""><a href="/term"><i class="fa fa-angle-right" aria-hidden="true">&nbsp;利用規約</i></a></li>
+            <li class=""><a href="/privacy"><i class="fa fa-angle-right" aria-hidden="true">&nbsp;個人情報保護方針</i></a></li>
+            <li class=""><a href="/law"><i class="fa fa-angle-right" aria-hidden="true">&nbsp;特定商取引法に基づく表示</i></a></li>
+            <li class=""><a href="/login"><i class="fa fa-angle-right" aria-hidden="true">&nbsp;ログイン</i></a></li>
+            <li class=""><a href="/signup"><i class="fa fa-angle-right" aria-hidden="true">&nbsp;会員登録</i></a></li>
+            <li class=""><a href="/contact"><i class="fa fa-angle-right" aria-hidden="true">&nbsp;お問い合わせ</i></a></li>
+        </ul>
+    </nav>
+    <div id="copyrights">
+        <div class="container clearfix">
+            &copy; 2017 Neworld, Inc.<br>
+        </div>
+    </div>
+</footer>
+<!-- #footer end -->
+
+
+		</div>
+		<!-- #wrapper end -->
+
+		<!-- Go To Top -->
+
+		<!-- Footer Scripts -->
+		<script src="/assets/convas/functions-5556f3646ea766f001b8304b2e66ed60b1060189e4a46182a234947e2fcc90fc.js"></script>
+		
+		<script>
+			$(function() {
+				$(document).ready(function() {
+					setSnsShare("https://www.craft-store.jp/","【CRAFT】| 通販、セレクトショップ");
+				});
+			});
+		</script>
+		<input type="hidden" id="member-status" value="no-member">
+	</body>
+</html>
