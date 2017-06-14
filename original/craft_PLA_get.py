@@ -104,8 +104,7 @@ urls = [
 "https://www.craft-store.jp/products/osakasuzuki_soleiltumbler",
 "https://www.craft-store.jp/products/osakasuzuki_soleiltumbler_s",
 "https://www.craft-store.jp/products/hirotagarasu_syouwamodern_tumbler",
-"https://www.craft-store.jp/products/aiwashibori_tumbler90_silky",
-"https://www.craft-store.jp/products/suginokicraft_lunchbox_b"
+"https://www.craft-store.jp/products/aiwashibori_tumbler90_silky"
 ]
 ''''
 get information
@@ -162,6 +161,7 @@ for url in urls:
 	price = re.split(r'円', price)
 	price = price[0]
 	price = price.strip()
+	price = price.replace(",", "")
 	print(price, ",", end='')
 
 	#get brand
