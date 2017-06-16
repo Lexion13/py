@@ -2,9 +2,6 @@ from bs4 import BeautifulSoup
 import urllib.parse
 from urllib.parse import urljoin
 import urllib.request as req
-
-
-
 url = [
 "https://www.craft-store.jp/products/sanjotokusyuchukousho-ssc-26",
 "https://www.craft-store.jp/products/isuke-moku-cupsaucer",
