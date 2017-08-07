@@ -5,6 +5,7 @@
       <option name="ignoredIdentifiers">
         <list>
           <option value="urllib.urlparse" />
+          <option value="list.replace" />
         </list>
       </option>
     </inspection_tool>
