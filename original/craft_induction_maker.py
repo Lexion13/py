@@ -6,11 +6,8 @@ import re
 import time
 import datetime
 
-fj = lambda str, dict=locals(): Template(str).render(dict)
-
 urls = [
-"https://www.craft-store.jp/products/100cm-musubi-both-isamonyou-kiku-100",
-"https://www.craft-store.jp/products/osakasuzuki_soleiltumbler"
+"https://www.craft-store.jp/products/camdlelights-greencandle-9"
 ]
 
 for url in urls:
@@ -33,7 +30,7 @@ for url in urls:
         <div class="item-foreword-box">
             <div class="row">
                 <div class="col-xs-4 col-sm-3">
-                    <img src="" alt="" class="img-responsive center-block">
+                    <img src="" alt="{1}" class="img-responsive center-block">
                 </div>
                 <div class="col-xs-8 co-sm-9">
                     <h3>{0}</h3>
