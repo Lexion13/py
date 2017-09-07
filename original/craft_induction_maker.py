@@ -7,7 +7,7 @@ import time
 import datetime
 
 urls = [
-"https://www.craft-store.jp/products/camdlelights-greencandle-9"
+"https://www.craft-store.jp/products/gatomikio-waqwa-cup-s",
 ]
 
 for url in urls:
@@ -16,7 +16,6 @@ for url in urls:
 
     href = url
 
-    print('''fuck you''')
     Brand = soup.select_one(".product-main-info h2").string
     ItemName = soup.select_one(".product-main-info h1").string
     ItemDetail = soup.select(".product-annotation p")
@@ -33,8 +32,8 @@ for url in urls:
                     <img src="" alt="{1}" class="img-responsive center-block">
                 </div>
                 <div class="col-xs-8 co-sm-9">
-                    <h3>{0}</h3>
                     <h2>{1}</h2>
+                    <h3>{0}</h3>
                     {2}
                </div>
                <a class="item-foreword-fixed-link" href="{3}">商品ページへ</a>

@@ -6,11 +6,12 @@ import urllib.request as req
 print("href", end=",")
 print("ttle")
 
-base_url = "https://www.craft-store.jp/products/"
+base_url = "https://www.craft-store.jp/products?keywords=&utf8=%E2%9C%93&page="
 for i in range(100):
 	if i != 0:
 		i = str(i)
-		url = base_url + "?page=" + i
+		url = base_url + i
+		print(url)
 		res = req.urlopen(url)
 		soup = BeautifulSoup(res, "html.parser")
 		check404 = soup.select_one("#zero-search-results-title")
