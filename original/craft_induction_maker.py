@@ -7,7 +7,7 @@ import time
 import datetime
 
 urls = [
-"https://www.craft-store.jp/products/soil-soap-dish-bath-circle",
+"https://www.craft-store.jp/products/kimuraglass-karuta-1x2",
 ]
 
 for url in urls:
