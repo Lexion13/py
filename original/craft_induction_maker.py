@@ -7,7 +7,7 @@ import time
 import datetime
 
 urls = [
-"https://www.craft-store.jp/products/kimuraglass-karuta-1x2",
+"https://www.craft-store.jp/products/2016-bg-coffee-dripper",
 ]
 
 for url in urls:
@@ -20,26 +20,30 @@ for url in urls:
     ItemName = soup.select_one(".product-main-info h1").string
     ItemDetail = soup.select(".product-annotation p")
     ItemDetail = ItemDetail[1]
+    ItemPrice = soup.select_one(".product-price").text
 
 
 
     print('''
-    <div class="item-foreword-wrap">
-        <h2 class="item-foreword-title">ご購入はこちら</h2>
-        <div class="item-foreword-box">
-            <div class="row">
-                <div class="col-xs-4 col-sm-3">
-                    <img src="" alt="{1}" class="img-responsive center-block">
-                </div>
-                <div class="col-xs-8 co-sm-9">
-                    <h2>{1}</h2>
-                    <h3>{0}</h3>
-                    {2}
-               </div>
-               <a class="item-foreword-fixed-link" href="{3}">商品ページへ</a>
+<div class="row item-foreword2-wrap">
+    <div class="col-xs-12 col-sm-5 col-md-5">
+        <div class="row">
+            <div class="col-xs-5 item-foreword2-image">
+                <img src="" class="img-responsive">
+            </div>
+            <div class="col-xs-7">
+                <p class="item-foreword2-brand">{0}</p>
+                <p class="item-foreword2-item-name">{1}</p>
+                <p class="item-foreword2-price">{4}</p>
+            </div>
+            <div class="col-xs-12">
+                <a class="item-foreword2-btn" href="{3}">ご購入はこちら</a>
             </div>
         </div>
     </div>
+
+</div>
+
     
-    '''.format(Brand,ItemName,ItemDetail,url))
+    '''.format(Brand,ItemName,ItemDetail,url,ItemPrice))
 
