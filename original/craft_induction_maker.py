@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 import urllib.parse
 from urllib.parse import urljoin
-import urllib.request as req
+import requests as req
 import re
 import time
 import datetime
@@ -11,8 +11,8 @@ urls = [
 ]
 
 for url in urls:
-    res = req.urlopen(url)
-    soup = BeautifulSoup(res, "html.parser")
+    res = req.get(url)
+    soup = BeautifulSoup(res.content, "html.parser")
 
     href = url
 
