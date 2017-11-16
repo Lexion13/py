@@ -5,9 +5,1379 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flask_lexion13_playroom/templates/edit.html" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flask_lexion13_playroom/templates/rss.html" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flask_lexion13_playroom/templates/search.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_science/play_room.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/original/craft_image_checker.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scaper_girls_for_craft/item_detail_light.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scaper_girls_for_craft/get_item_list.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/007.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/1337.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/16bit.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/1cr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/1qrfuod6_400x400.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/1st.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/1wings.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/2015.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/2bacco.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/2flav.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/2give.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/32bit.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/365.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/404.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/42.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/46b-uaba_400x400.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/611.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/808.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/888.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/8bit.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/8bt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/Image_downloader.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/a3c.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/aby.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/aces.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/acid.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/acn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/acoin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/acp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/act.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/adc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/adcn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/adl.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/adn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/adst.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/adt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/adx1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/adz1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ae.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/aec.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/aeon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/aero.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/agrs.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ags.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/aht.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/aib.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/air.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/alc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/alex.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/alf.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/allsafe.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/aln.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/am.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/amber.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/amc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/amis.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ammo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/amp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ams.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/amy.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/anal.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/anc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ancp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/and.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ant.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/antc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/anti.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/apc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/apex.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/apt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/apx.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/arb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/arc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/arch.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/arco.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ardr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/arg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/argus.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ari.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ark.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/arm.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/arna.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/arpa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/asn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ast.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/atb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/atm.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/atms.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/atom.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/atx.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/augur-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/aur.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/aut.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/auth.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/av.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/avatar_900663.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/avt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/axiom.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/axr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/bac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/bam.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ban.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/bash.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/bat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/bay1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/bbcc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/bbr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/bbt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/bcap1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/bcc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/bch.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/bcr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/bcx.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/bcy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/beach.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/beats.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/bela.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ben.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/benji.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/bern.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/best.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/bet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/bhc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/bic.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/bigup.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/biob.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/bios.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/bip.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/bitb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/bitcny.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/bitfinex.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/bitok.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/bits.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/bitsd.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/bitusd.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/bitz.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/blazr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/blc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/blitz.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/blk.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/block.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/blockpay.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/blry.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/blu.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/bm.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/bmxt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/bnb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/bnc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/bnt.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/bnx.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/boat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/bob.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/bog.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/boli.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/bomb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/bon_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/boom.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/bos.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/boson.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/boss.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/bost.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/bot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/bqc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/bqx.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/brain.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/brdd.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/brit.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/brk.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/bronz.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/bs.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/bsc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/bsd.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/bst.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/bstar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/bstk.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/bta1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/btc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/btcd_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/btcry.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/btcs.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/btd.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/bte.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/btf.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/btg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/btlc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/btm.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/btmi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/btpl.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/btq.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/btr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/bts.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/bttf.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/btx.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/btz.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/bucks.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/buk.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/bulls.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/burst.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/buzz.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/bvc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/bxc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/bxt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/byc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/bytecoin-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/bytes.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/c2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/c9fobrlr_400x400.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/cab.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/cabs.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/cach.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/caix.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/calc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/cam.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/cann.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/cap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/carbon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/cash.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/cat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/cbd.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/cbx.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/cc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ccc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ccn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ccrb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ccx.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/cdn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/cdt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/cdx.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/cell.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/cesc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ceti.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/cexio.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/cf.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/cfc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/cfi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/cft.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/cga.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/chan2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/chao.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/chash.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/chat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/chc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/chess.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/chief.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/child.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/chip.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/choof.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/cinder.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/cinni.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/cir.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/circ.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/cj.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/cjc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ckc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/clam.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/click.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/clint.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/cloak.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/cloud.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/clr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/club.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/clud.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/clv.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/cmc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/cmpo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/cmt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/cnc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/cnd.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/cnl.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/cnmt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/cnt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/coc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/coe.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/coin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/coino.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/comm.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/compcoin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/con_.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/cool.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/cor.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/coral.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/core.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/cosmos.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/coss.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/cov.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/coval.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/cox.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/cpc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/cqst.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/crab.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/crack.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/craft.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/craig.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/crave.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/crbit1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/crc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/cre.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/crea.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/cream.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/creva.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/crnk.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/crps.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/crw1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/crx.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/crypt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/cs.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/csc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/csh.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/csmic.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/csno.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ctc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ctic.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ctr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ctt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/cube.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/cure.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/cvc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/cvcoin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/cwxt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/cxc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/cxt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/cyc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/cygnus.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/cyp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/cyt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/dank.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/dar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/dark.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/das.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/dash.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/db.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/dbg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/dbic.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/dbix.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/dbtc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/dck.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/dcn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/dcre.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/dct.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/dcy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ddf.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/dea.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/decred.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/delta.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/dem.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/dent.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/des.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/deth.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/deur.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/dfbt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/dgb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/dgc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/dgd.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/dgms.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/dgore.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/dgt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/dice.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/diem_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/digs.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/dim.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/dime.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/disk.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/dkc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/dlc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/dlisk.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/dmarket.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/dmd.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/dna.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/dnet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/dnr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/dnt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/doge.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/doged.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/dogeth-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/dollarcoin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/don.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/dope.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/dot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/dp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/dpay.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/dra.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/drkc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/drkt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/drm8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/drop.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/drp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/drs.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/drz.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/dsb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/dsb_amky_400x400.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/dt-token.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/dt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/dtb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/dtc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/dtct.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/duckduckcoin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/duo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/dux.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/dvc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/dyn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ea.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/eac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/eb3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ebs.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ebz.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ec.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ecc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/eco.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ecob.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/edc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/edg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/edge.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/edrc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/efl.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/efyt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/egc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/egg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ego.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ekn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/eko.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/elc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ele.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/els.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ely2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/emb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/emc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/emc2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/emd.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/emirg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/empc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ene.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/enrg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ent.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/enter.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/eoc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/eos-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/epy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/eq.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/eqb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/eqt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/equal.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/erb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/erc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/err.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/esp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/etc2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/eth.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/eths.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ett.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/euc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/event.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/evil.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/exb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/excl.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/exe.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/exit.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/exp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ezc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/f16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/fair.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/fame.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/fazz.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/fcn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/fct1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/feed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ffc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/fgz.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/fibre.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/fil.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/find.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/fire.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/first.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/fist.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/fit.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/fjc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/flap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/fldc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/flo1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/flt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/flx.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/fly.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/fnd.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/fonz.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/forex.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/frac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/frc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/fre.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/frk.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/frn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/frwc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/fsc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/fsn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/fst.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ftc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ftp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/fuck.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/fuel.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/fun.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/func.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/futc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/fuzz.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/fx.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/fyn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/gaia.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/gakh.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/gam.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/game.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/gap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/gay.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/gbit.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/gbrc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/gbt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/gcc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/gcn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/gcr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/gdc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/gen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/geo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ggs.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ghc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ghoul.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/gift.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/gig.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/give.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/giz.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/glc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/gld.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/globe.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/glx.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/glyph.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/gmc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/gml.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/gmx.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/gnj.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/gnosis-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/goat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/golem-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/golos.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/goon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/got.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/gotx.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/gp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/gpl.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/gpu.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/gram.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/grav.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/grc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/grexit.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/grid.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/grm.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/grn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/grow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/grs.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/grt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/grw.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/grwi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/gsm.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/gsxjpeg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/gsy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/gue.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/guns.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/gup.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/hal.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/hallo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/hams.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/haze.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/hbn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/hcc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/heat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/hedg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/heel.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/hexx.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/hill.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/hire.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/hkg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/hmp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/hmq.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/hnc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/hodl.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/honey1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/hpc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/hrb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/hsp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/htc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/html5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/huge.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/hun.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/hush.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/hvc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/hvco.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/hvt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/hyp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/hyper.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/hz.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/hzt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/i0c.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ibank.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/icash.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/icb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/icn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/icoo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ifc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/iflt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ignis.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ilc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/iml.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/impch.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/imps.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ims.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/imx.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/in.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/inc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/incnt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/incp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ind.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/inf8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/infx.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/inpay.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/insane.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/insn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/inv.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ioc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ion.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/iop.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/iota.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/iou1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ipc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/itt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ivetpxdq_400x400.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ivz.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/iw.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/iwt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ixc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ixt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/j.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/jane.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/jbs.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/jdc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/jif.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/jio.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/jkc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/jns.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/jobs.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/jok.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/jpc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/judge.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/jwl.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/karm.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/katz.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/kayi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/kc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/kdc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ked.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/kencoin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/key.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/kgc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/king.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/klc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/kmd.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/knc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/kobo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/kore.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/kr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/krak.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/krb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/krc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ktk.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/kubo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/kurt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/kush.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/lab.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/lana.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/lato.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/laz.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/lbc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/lc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ldoge.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/lea.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/lemon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/lenin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/leo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/lepen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/lfc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/lgbtq.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/lgd.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/limx.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/linda.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/lir.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/litecoin-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/liv.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/lk7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/lky.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/lmc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/loc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/log.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/look.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/lqd.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/lsd.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/lsk.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ltb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ltcd.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ltcr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ltcx.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ltd.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/lth.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/lts.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/lucky.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/lunyr-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/lux.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/lvg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/lxc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/lyb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/lyc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/mac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/mad.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/maid.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/mana.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/mapc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/mar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/marv.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/marx.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/maryj.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/mass.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/mat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/max.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/mbi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/mbit.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/mbrs.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/mc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/mcap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/mcar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/mcc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/mcn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/mco.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/mcrn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/mdc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/mdt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/mec.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/med.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/mega.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/mer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/met1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/metal.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/mg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/mgo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/mi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/mil.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/milo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/min.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/mine.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/mint.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/mis.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/miv.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/mkr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/mlite.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/mln.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/mm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/mmc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/mmxiv.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/mmxvi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/mn1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/mnc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/mnd.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/mne.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/mnm.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/mny.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/mobi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/moin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/mojo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/mona.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/moneta.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/money.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/moon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/moond.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/moto.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/mpro.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/mrp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/mrs.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/mrv.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/mry.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/msra.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/mst.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/mst1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/mth.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/mtl.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/mtmc3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/mudra.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/mue.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/music.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/muu.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/mxt.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/myb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/myc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/mycelium.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/myr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/myst.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/mzc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/n7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/nan.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/nanas.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/nas2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/naut.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/nav.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/nbit.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/nbl.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/nbt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ndc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ndoge.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/nebl.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/nebu.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/nec.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/nef.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/neo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/neos1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/net.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/net1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/netc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/netko.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/neu.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/neva.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/nexus.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/nic.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/nice.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/nka.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/nkc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/nkt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/nlc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/nlc21.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/nlg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/nmb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/nmc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/nmr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/nobl.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/node.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/noo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/note.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/npc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/npx.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/nrb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/nrc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/nrs.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/nsr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ntc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ntcc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ntrn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/nubis.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/nuke.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/num.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/nvc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/nvst.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/nxc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/nxe.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/nxt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/nxtasset.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/nxti.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/nxtty.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/nyan.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/nzc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/oax.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/obits.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/obs.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/oc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ocl.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/odnt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ok.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/oldsf.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/olymp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/oma.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/omc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/omg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/omni.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/onion.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/onx.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/opal.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/opes.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/opt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/option.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/orb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/orly.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/oro.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/oroc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/os76.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/osc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/pabyosi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/pac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/pak.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/para.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/part.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/pasc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/pasl.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/pay.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/payp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/pbc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/pbt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/pcm.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/pdc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/pec.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/peercoin-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/peerplays.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/pen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/pepecash.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/pepecoin-512.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/pex.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/pgl.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/phr.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/phs.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/pie.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/piggy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ping1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/pinkcoin-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/pinkx.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/pio.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/pivx.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/pizza.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/pkb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/planet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/plnc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/plr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/plu.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/pnc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/pnd.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/pnk.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/poe.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/points.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/poly.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/polybius.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/post.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/posw.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/pot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ppt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/pqt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/prc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/pre.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/pres.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/prg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/prime.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/prm.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/pro.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/proc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/prx.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/psb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/pseud.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/psi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/pst.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/psy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/pta.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ptc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ptoy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/pts.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/pulse.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/pupa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/put1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/pwr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/px.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/pxc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/pxi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/pxl.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/pyc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/pzm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/qau.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/qbc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/qbk.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/qbt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/qcn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/qora.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/qrk.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/qrl.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/qslv.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/qtl.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/qtum.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/qtz.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/qvt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/qwark.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/rad.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/rads.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/rain.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ratio.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/rbies.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/rbit.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/rbr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/rbt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/rbx.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/rby.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/rc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/rcc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/rcn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/rcx.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/rdd.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/red.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ree.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/rev.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ric.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/rice.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ride.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ring.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ripo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ripple.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/rise.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/rkc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/rlc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/rms.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/rnc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/rns.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/root.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/roots.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/round.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/royal.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/rpc-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/rt2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/rubit.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/rust.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/rvt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ryc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/rzr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/s8c.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/safex.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/sak.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/san.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/sandt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/sar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/sat2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/sbc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/scash.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/scn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/score.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/scot_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/scrpt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/scrt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/sct.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/sdao.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/sdc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/sdp.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/seeds.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/sel.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/sen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/seq.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/sfc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/sfe.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/sfr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/sh.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/shade.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/shift.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/shld.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/shorty.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/siacon-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/sib.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/sift.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/sigt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/silk.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/sjcx.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/sky.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/slg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/sling.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/slm.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/slr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/sls.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/smac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/smart.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/smc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/smly.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/smsr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/snc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/snfsbjsl_400x400.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/sngls.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/snk.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/snm.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/snrg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/sns.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/snt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/socc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/soil.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/sole.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/song.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/soon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/sp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/spa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/space.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/spc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/spec.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/spkr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/spn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/sports.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/spots.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/spr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/sprts.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/spt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/spx.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/sql.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/src.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/src1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ssc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ssd.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ssv.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/sta.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/stalin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/star.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/start.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/steem.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/steps.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/sthr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/sto.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/storm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/str.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/stratis-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/sts.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/stu.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/stv.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/stx.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/sub.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/sup.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/super.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/sur.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/swarm.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/sweet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/swift.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/swing.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/swt.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/sx.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/sxc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/syc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/sync.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/synx.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/sys.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/taas.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/tab.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/tag.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/tagr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/taj.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/tak.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/tam.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/tap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/tat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/tato1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/tbcx.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/tcr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/tdfb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/team.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/tech.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/tecoin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/tek.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/tell.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/tennet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/terracoin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/tes.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/tesla.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/tfl.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/tgc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/thc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/thnx.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ths.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/tia.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/tic.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/tie.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/time.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/tit.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/tix.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/tkn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/tks.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/tmc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/tme.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/tnt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/today.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/tom.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/tor.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/tpay.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/tpg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/tra.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/trg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/tri.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/tribe.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/trick.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/trk.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/tron.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/trst.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/trump.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/trust.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ttc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/tur.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/twist1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/tx.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/u.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/uaec.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ubiq.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ubq.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/uet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ufojpeg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/uis.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ultc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/umb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/unat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/unb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/unc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/unf.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/uni.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/unify.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/unikr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/uniq.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/unit.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/units.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/unity_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/uno.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ur.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/uro.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/usc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/usde.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/usdt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/utc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/uth.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/util.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/vapor.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/vdo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/vec2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/veg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/vent.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/veri.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/versa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/vertex.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/via.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/vib.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/vidz.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/viorjpeg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/vip.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/viral.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/visio.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/vlt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/vltc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/vmc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/volt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/voot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/vox.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/voya.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/vpc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/vrc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/vrm.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/vrs.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/vta.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/vtc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/vtr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/vty.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/vuc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/warp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/wash.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/waves_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/way.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/wbb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/wbtc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/wc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/wdc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/wealth.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/wex.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/wgc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/wgo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/wgr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/wine.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/wink.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/wisc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/wmc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/wnet1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/wolf.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/wolk.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/wop.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/worm.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/wrc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/wsx.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/wtt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/x2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/xai.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/xas.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/xau.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/xaur.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/xbc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/xbot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/xbs_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/xbt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/xby1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/xc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/xcash.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/xce.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/xci.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/xcj.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/xcn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/xco.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/xcp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/xcre.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/xct.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/xdb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/xde2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/xdn.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/xdp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/xdq.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/xel.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/xem.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/xen.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/xfc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/xg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/xgb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/xgr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/xhi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/xid.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/xjo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/xlb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/xlr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/xmf.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/xmg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/xmr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/xnc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/xng.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/xnx.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/xpb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/xpd.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/xph.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/xpm.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/xpo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/xpoke.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/xpro.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/xps.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/xpy_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/xqn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/xra.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/xrb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/xre.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/xrl.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/xseed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/xsi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/xsp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/xspec.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/xst.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/xt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/xtc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/xuc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/xup.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/xvc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/xve.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/xvg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/xvp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/xvs.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/xwc_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/xxx.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/xzc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/xzc1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/yac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/yay.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ybc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/yes.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/ymc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/yoc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/yovi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/zbc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/zcc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/zcl.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/zec.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/zecd.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/zed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/zeit.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/zen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/zer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/zet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/zet2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/zlq.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/zne.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/znt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/zny.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/zoin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/zoom.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/zrx.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/zse.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/zur.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/zxt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/original/Image_downloader/zyd.png" afterPath="" />
       <change type="MOVED" beforePath="$PROJECT_DIR$/../To-Do-List---Flask-MongoDB-Example/test.py" afterPath="$PROJECT_DIR$/../To-Do-List---Flask-MongoDB-Example/app.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../BLTZ/.gitignore" afterPath="$PROJECT_DIR$/../BLTZ/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../BLTZ/.idea/BLTZ.iml" afterPath="$PROJECT_DIR$/../BLTZ/.idea/BLTZ.iml" />
@@ -22,18 +1392,11 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../flask_lexion13_playroom/app.py" afterPath="$PROJECT_DIR$/../flask_lexion13_playroom/app.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../flask_lexion13_playroom/templates/index.html" afterPath="$PROJECT_DIR$/../flask_lexion13_playroom/templates/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../flask_lexion13_playroom/templates/layout.html" afterPath="$PROJECT_DIR$/../flask_lexion13_playroom/templates/layout.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/py.iml" afterPath="$PROJECT_DIR$/.idea/py.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/original/craft_404_check.py" afterPath="$PROJECT_DIR$/original/craft_404_check.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/original/craft_PLA_get.py" afterPath="$PROJECT_DIR$/original/craft_PLA_get.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/original/craft_induction_maker.py" afterPath="$PROJECT_DIR$/original/craft_induction_maker.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/original/craft_item_detail_scraping.py" afterPath="$PROJECT_DIR$/original/craft_item_detail_scraping.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/original/craft_item_thumbnail_image_get.py" afterPath="$PROJECT_DIR$/original/craft_item_thumbnail_image_get.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/original/garbage.py" afterPath="$PROJECT_DIR$/original/garbage.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scaper_girls_for_craft/item_detail_light.py" afterPath="$PROJECT_DIR$/scaper_girls_for_craft/item_detail_light.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -48,50 +1411,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="item_detail_light.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/scaper_girls_for_craft/item_detail_light.py">
+      <file leaf-file-name="lecture12.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../udemy/lecture12.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="26" column="22" lean-forward="true" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
+            <state relative-caret-position="1026">
+              <caret line="61" column="0" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
               <folding>
-                <element signature="e#0#29#0" expanded="true" />
+                <element signature="e#0#18#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="craft_tag_scraping.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/original/craft_tag_scraping.py">
+      <file leaf-file-name="craft_induction_maker.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/original/craft_induction_maker.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="351">
-              <caret line="115" column="34" lean-forward="false" selection-start-line="115" selection-start-column="34" selection-end-line="115" selection-end-column="34" />
-              <folding>
-                <element signature="e#0#29#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="garbage.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/original/garbage.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
-              <caret line="11" column="15" lean-forward="false" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
-              <folding>
-                <element signature="e#0#29#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="craft_item_complete_checker.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/original/craft_item_complete_checker.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="159">
-              <caret line="87" column="53" lean-forward="false" selection-start-line="87" selection-start-column="20" selection-end-line="87" selection-end-column="53" />
-              <folding>
-                <element signature="e#0#29#0" expanded="true" />
-              </folding>
+              <caret line="19" column="62" lean-forward="true" selection-start-line="19" selection-start-column="62" selection-end-line="19" selection-end-column="62" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -107,7 +1444,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>currency</find>
       <find>fsym = currency['symbol']</find>
       <find>import</find>
       <find>print_article_text</find>
@@ -137,6 +1473,7 @@
       <find>insert</find>
       <find>BeautifulSoup</find>
       <find>replace</find>
+      <find>product-price</find>
     </findStrings>
     <replaceStrings>
       <replace>,&quot;,&quot;, end=''</replace>
@@ -155,13 +1492,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ch3/list-sjis.csv" />
-        <option value="$PROJECT_DIR$/ch3/csv-read.py" />
-        <option value="$PROJECT_DIR$/ch3/csv-read2.py" />
-        <option value="$PROJECT_DIR$/ch3/csv-write.py" />
-        <option value="$PROJECT_DIR$/ch3/excel-read.py" />
-        <option value="$PROJECT_DIR$/ch4/xor-train.py" />
-        <option value="$PROJECT_DIR$/ch4/iris-train.py" />
         <option value="$PROJECT_DIR$/../flask/study_flask/flask/templates/index.html" />
         <option value="$PROJECT_DIR$/../flask/study_flask/flask/app.py" />
         <option value="$PROJECT_DIR$/original/something_scraping.py" />
@@ -201,10 +1531,17 @@
         <option value="$PROJECT_DIR$/../flask_lexion13_playroom/templates/layout.html" />
         <option value="$PROJECT_DIR$/../flask_lexion13_playroom/templates/index.html" />
         <option value="$PROJECT_DIR$/../flask_lexion13_playroom/templates/edit.html" />
-        <option value="$PROJECT_DIR$/../flask_lexion13_playroom/app.py" />
-        <option value="$PROJECT_DIR$/../flask_lexion13_playroom/templates/rss.html" />
         <option value="$PROJECT_DIR$/original/garbage.py" />
         <option value="$PROJECT_DIR$/scaper_girls_for_craft/item_detail_light.py" />
+        <option value="$PROJECT_DIR$/scaper_girls_for_craft/get_item_list.py" />
+        <option value="$PROJECT_DIR$/../flask_lexion13_playroom/app.py" />
+        <option value="$PROJECT_DIR$/../flask_lexion13_playroom/templates/rss.html" />
+        <option value="$PROJECT_DIR$/../udemy/1.py" />
+        <option value="$PROJECT_DIR$/../udemy/lecture8_how_to_caluclate_with_array.py" />
+        <option value="$PROJECT_DIR$/../udemy/lecture9_how_to_append_to_array.py" />
+        <option value="$PROJECT_DIR$/../udemy/lecture10.py" />
+        <option value="$PROJECT_DIR$/../udemy/lecture11.py" />
+        <option value="$PROJECT_DIR$/../udemy/lecture12.py" />
         <option value="$PROJECT_DIR$/original/craft_induction_maker.py" />
       </list>
     </option>
@@ -247,56 +1584,27 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Changed Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="To-Do-List---Flask-MongoDB-Example">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="C:\Users\lexio\Dropbox\To-Do-List---Flask-MongoDB-Example">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="py" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="To-Do-List---Flask-MongoDB-Example" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="py" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="To-Do-List---Flask-MongoDB-Example" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="py" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="flask_lexion13_playroom" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="py" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="flask_lexion13_playroom" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="py" />
@@ -323,30 +1631,11 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope">
-        <subPane subId="Changed Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="To-Do-List---Flask-MongoDB-Example">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="C:\Users\lexio\Dropbox\To-Do-List---Flask-MongoDB-Example">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../To-Do-List---Flask-MongoDB-Example" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../udemy" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -366,55 +1655,19 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.craft_induction_maker">
-    <configuration default="false" name="app (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="lecture9_how_to_append_to_array" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../flask_lexion13_playroom" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../udemy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="flask_my_playroom" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../flask_lexion13_playroom/app.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="craft_item_url_scraping" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/original" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/original/craft_item_url_scraping.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="garbage" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/original" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/original/garbage.py" />
+      <module name="udemy" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../udemy/lecture9_how_to_append_to_array.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -438,19 +1691,55 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="item_detail_light" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="lecture10" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scaper_girls_for_craft" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../udemy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scaper_girls_for_craft/item_detail_light.py" />
+      <module name="udemy" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../udemy/lecture10.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="lecture11" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../udemy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="udemy" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../udemy/lecture11.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="lecture12" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../udemy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="udemy" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../udemy/lecture12.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -538,19 +1827,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.app (1)" />
-      <item index="1" class="java.lang.String" itemvalue="Python.craft_item_url_scraping" />
-      <item index="2" class="java.lang.String" itemvalue="Python.garbage" />
-      <item index="3" class="java.lang.String" itemvalue="Python.craft_induction_maker" />
-      <item index="4" class="java.lang.String" itemvalue="Python.item_detail_light" />
+      <item index="0" class="java.lang.String" itemvalue="Python.lecture9_how_to_append_to_array" />
+      <item index="1" class="java.lang.String" itemvalue="Python.craft_induction_maker" />
+      <item index="2" class="java.lang.String" itemvalue="Python.lecture10" />
+      <item index="3" class="java.lang.String" itemvalue="Python.lecture11" />
+      <item index="4" class="java.lang.String" itemvalue="Python.lecture12" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Python.craft_induction_maker" />
-        <item index="1" class="java.lang.String" itemvalue="Python.item_detail_light" />
-        <item index="2" class="java.lang.String" itemvalue="Python.garbage" />
-        <item index="3" class="java.lang.String" itemvalue="Python.app (1)" />
-        <item index="4" class="java.lang.String" itemvalue="Python.craft_item_url_scraping" />
+        <item index="1" class="java.lang.String" itemvalue="Python.lecture12" />
+        <item index="2" class="java.lang.String" itemvalue="Python.lecture11" />
+        <item index="3" class="java.lang.String" itemvalue="Python.lecture10" />
+        <item index="4" class="java.lang.String" itemvalue="Python.lecture9_how_to_append_to_array" />
       </list>
     </recent_temporary>
   </component>
@@ -615,15 +1904,15 @@
     <frame x="3269" y="-9" width="2341" height="1368" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21324503" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2724062" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991454" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.50598294" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4025641" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991454" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24988963" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35470086" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41367522" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4136" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -653,27 +1942,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../BLTZ/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2025">
-          <caret line="75" column="11" lean-forward="false" selection-start-line="75" selection-start-column="11" selection-end-line="75" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../BLTZ/BLTZ/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/../BLTZ/instance/config.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" column="12" lean-forward="true" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../BLTZ/run.py" />
-    <entry file="file://$PROJECT_DIR$/../heroku-tutorial/python-getting-started/Pipfile" />
-    <entry file="file://$PROJECT_DIR$/../BLTZ/config.py" />
-    <entry file="file://$PROJECT_DIR$/../heroku-tutorial/python-getting-started/manage.py" />
-    <entry file="file://$PROJECT_DIR$/../heroku-tutorial/python-getting-started/Procfile" />
-    <entry file="file://$PROJECT_DIR$/../BLTZ/BLTZ/app.py" />
     <entry file="file://$PROJECT_DIR$/../BLTZ/Procfile">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -807,27 +2075,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ch1/cr-path.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch1/cr-getall.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-836">
-          <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bs-test1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="41" lean-forward="true" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data_science/play_room.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -898,31 +2145,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/original/craft_item_url_scraping.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="31" column="16" lean-forward="false" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../flask_lexion13_playroom/templates/rss.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="27" lean-forward="true" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../To-Do-List---Flask-MongoDB-Example/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1485">
           <caret line="55" column="43" lean-forward="false" selection-start-line="55" selection-start-column="43" selection-end-line="55" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../flask_lexion13_playroom/app.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="730">
-          <caret line="58" column="35" lean-forward="false" selection-start-line="58" selection-start-column="35" selection-end-line="58" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -933,51 +2159,141 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/original/Image_downloader/bob.png" />
+    <entry file="file://$PROJECT_DIR$/ch1/cr-getall.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="26" column="14" lean-forward="true" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch1/cr-path.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="20" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch1/cr-path2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bs-test1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="12" lean-forward="false" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scaper_girls_for_craft/get_item_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/original/craft_item_url_scraping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="658">
+          <caret line="43" column="27" lean-forward="false" selection-start-line="43" selection-start-column="27" selection-end-line="43" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/original/craft_tag_scraping.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
+        <state relative-caret-position="982">
           <caret line="115" column="34" lean-forward="false" selection-start-line="115" selection-start-column="34" selection-end-line="115" selection-end-column="34" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/original/garbage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="11" column="15" lean-forward="false" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="81">
+          <caret line="3" column="22" lean-forward="false" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/original/craft_item_complete_checker.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="87" column="53" lean-forward="false" selection-start-line="87" selection-start-column="20" selection-end-line="87" selection-end-column="53" />
+        <state relative-caret-position="270">
+          <caret line="96" column="45" lean-forward="false" selection-start-line="96" selection-start-column="45" selection-end-line="96" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../flask_lexion13_playroom/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="69" column="0" lean-forward="true" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../flask_lexion13_playroom/templates/rss.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="14" column="23" lean-forward="false" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../udemy/lecture9_how_to_append_to_array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../udemy/lecture8_how_to_caluclate_with_array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="17" column="11" lean-forward="false" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../udemy/lecture7_how_to_make_array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scaper_girls_for_craft/item_detail_light.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="44" column="28" lean-forward="false" selection-start-line="44" selection-start-column="28" selection-end-line="44" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../udemy/lecture11.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../udemy/lecture10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../udemy/lecture12.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="61" column="0" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
           <folding>
-            <element signature="e#0#29#0" expanded="true" />
+            <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/original/craft_induction_maker.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        <state relative-caret-position="351">
+          <caret line="19" column="62" lean-forward="true" selection-start-line="19" selection-start-column="62" selection-end-line="19" selection-end-column="62" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scaper_girls_for_craft/item_detail_light.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="26" column="22" lean-forward="true" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>

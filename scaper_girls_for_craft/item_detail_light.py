@@ -25,17 +25,26 @@ for url in urls:
     items = soup.find_all('form', attrs={'action': '/orders/populate'})
 
     for item in items:
-        item = BeautifulSoup(item.content, "html.parser")
+        '''
+        you have to figure out how to get price.
+        but for the moment i cant get this.
+        Cuz html code is kinda collapsed.
+        in the end i've already fixed it. so you'll can get price code.
+        maybe.
+        
+        '''
+
+        print(item)
+        item = "<html>" + str(item) + "</html>"
+        item = BeautifulSoup(item, "html.parser")
         item_name = item.select_one('.product-main-info-item-name')
         item_name = str(item_name)
         item_name = re.sub(r'<(.*?)>', '', item_name)
         price = item.select_one(".product-price")
         price = str(price)
-        price = item.find_one('p', attrs={'data-hook': 'product_price'})
         if item_name != "None":
             print(href, admin_url, title, brand,end="")
             print(item_name,price)
-
 
 
 '''

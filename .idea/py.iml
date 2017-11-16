@@ -9,6 +9,7 @@
     <orderEntry type="module" module-name="flask_my_playroom" />
     <orderEntry type="module" module-name="To-Do-List---Flask-MongoDB-Example" />
     <orderEntry type="module" module-name="To-Do-List---Flask-MongoDB-Example" />
+    <orderEntry type="module" module-name="udemy" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />

@@ -7,7 +7,7 @@ import time
 import datetime
 
 urls = [
-"https://www.craft-store.jp/products/2016-bg-coffee-dripper",
+"https://www.craft-store.jp/products/makemyday-giftbox",
 ]
 
 for url in urls:
@@ -26,6 +26,10 @@ for url in urls:
 
     print('''
 <div class="row item-foreword2-wrap">
+    <div class="col-xs-12 col-sm-7 col-md-7">
+        <p></p>
+    </div>
+
     <div class="col-xs-12 col-sm-5 col-md-5">
         <div class="row">
             <div class="col-xs-5 item-foreword2-image">
